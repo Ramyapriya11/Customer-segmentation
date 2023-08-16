@@ -1,3 +1,2 @@
 # Customer-segmentation
-
 Customer segmentation using K-means is a data-driven strategy that divides mall customers into distinct groups based on shared characteristics, leveraging an unsupervised machine learning algorithm. This process involves collecting and preprocessing customer data, selecting relevant features, determining an appropriate number of clusters (K), applying K-means to partition customers, interpreting the clusters to create profiles, validating and refining the segmentation, and finally, using these segments for targeted marketing and personalized experiences. By analyzing customer behaviors, businesses can make informed decisions, optimize marketing efforts, and enhance overall customer satisfaction in the mall environment.
